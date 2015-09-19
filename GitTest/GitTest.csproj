@@ -50,13 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Components\gitClass2\gitClass2.csproj">
-      <Project>{b194f588-b275-4fa7-a569-e67f6d453a9d}</Project>
-      <Name>gitClass2</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\gitClass1\gitClass1.csproj">
-      <Project>{64495e09-8f2f-4eaa-b534-be89d57ed125}</Project>
-      <Name>gitClass1</Name>
+    <ProjectReference Include="..\..\Components\gitClass3\gitClass3\gitClass3.csproj">
+      <Project>{90461dc5-ae43-4549-8c1d-7553f9f3fe33}</Project>
+      <Name>gitClass3</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

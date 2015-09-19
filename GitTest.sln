@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest", "GitTest\GitTest.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitClass1", "gitClass1\gitClass1.csproj", "{64495E09-8F2F-4EAA-B534-BE89D57ED125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitClass2", "..\Components\gitClass2\gitClass2.csproj", "{B194F588-B275-4FA7-A569-E67F6D453A9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitClass3", "..\Components\gitClass3\gitClass3\gitClass3.csproj", "{90461DC5-AE43-4549-8C1D-7553F9F3FE33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{64495E09-8F2F-4EAA-B534-BE89D57ED125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64495E09-8F2F-4EAA-B534-BE89D57ED125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64495E09-8F2F-4EAA-B534-BE89D57ED125}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B194F588-B275-4FA7-A569-E67F6D453A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B194F588-B275-4FA7-A569-E67F6D453A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B194F588-B275-4FA7-A569-E67F6D453A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B194F588-B275-4FA7-A569-E67F6D453A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90461DC5-AE43-4549-8C1D-7553F9F3FE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90461DC5-AE43-4549-8C1D-7553F9F3FE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90461DC5-AE43-4549-8C1D-7553F9F3FE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90461DC5-AE43-4549-8C1D-7553F9F3FE33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
